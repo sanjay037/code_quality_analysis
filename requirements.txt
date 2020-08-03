@@ -1,0 +1,5 @@
+In order to execute the code you need to have the following software/libraries installed in your system:
+
+-> python 2.7
+-> pycparser library for python2
+-> gcc compiler
